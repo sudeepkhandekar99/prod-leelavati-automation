@@ -1,0 +1,43 @@
+{
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "services",
+      "text": "Services"
+    },
+    {
+      "to": "news",
+      "text": "Products"
+    },
+    {
+      "to": "clients",
+      "text": "Clients"
+    },
+    {
+      "to": "about",
+      "text": "About"
+    },
+    {
+      "to": "milestones",
+      "text": "Milestones"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+
+  "internalLinks": [
+    {
+      "to": "/blog",
+      "text": "Blog"
+    },
+    {
+      "to": "/notable-projects",
+      "text": "Notable Projects"
+    }
+  ]
+}

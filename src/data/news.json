@@ -1,0 +1,34 @@
+{
+  "id": "",
+  "title": "PRODUCTS",
+  "description": "CHECK OUR BESTSELLERS",
+  "articles": [
+    {
+      "to": "/single",
+      "tags": ["G34301149115"],
+      "info": {
+        "title": "1 CHANNEL SPDT RELAY OUTPUT MODULE",
+        "date": "LOAD UP TO 10 A/250 V AC",
+        "author": "CARLO GAVAZZI"
+      }
+    },
+    {
+      "to": "/single",
+      "tags": ["G34302249230"],
+      "info": {
+        "title": "2 CHANNEL SPDT RELAY OUTPUT MODULE",
+        "date": "LOAD UP TO 10 A/250 V AC",
+        "author": "CARLO GAVAZZI"
+      }
+    },
+    {
+      "to": "/single",
+      "tags": ["G34304443824"],
+      "info": {
+        "title": "4 CHANNEL SPST RELAY OUTPUT MODULE",
+        "date": "LOAD UP TO 5 A/250 V AC",
+        "author": "CARLO GAVAZZI"
+      }
+    }
+  ]
+}
